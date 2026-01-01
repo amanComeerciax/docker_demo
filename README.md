@@ -1,45 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <title>Docker Practice – Node.js Project</title>
-  <style>
-    body {
-      font-family: Arial, Helvetica, sans-serif;
-      background: #0d1117;
-      color: #c9d1d9;
-      padding: 30px;
-      line-height: 1.7;
-    }
-    h1, h2, h3 {
-      color: #58a6ff;
-    }
-    code {
-      background: #161b22;
-      padding: 4px 6px;
-      border-radius: 6px;
-      color: #f0f6fc;
-    }
-    pre {
-      background: #161b22;
-      padding: 15px;
-      border-radius: 10px;
-      overflow-x: auto;
-    }
-    ul {
-      margin-left: 20px;
-    }
-    .box {
-      background: #161b22;
-      border-left: 4px solid #58a6ff;
-      padding: 15px;
-      margin: 20px 0;
-      border-radius: 8px;
-    }
-  </style>
-</head>
 
-<body>
 
 <h1>🐳 Docker Basics – Node.js Practice Project</h1>
 
